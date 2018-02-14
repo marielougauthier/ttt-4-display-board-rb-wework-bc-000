@@ -4,6 +4,7 @@
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
 def display_board(board)
+  puts =  | |
   puts = 
 
 display_board(board)
